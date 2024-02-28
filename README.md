@@ -4,8 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
+I'm passionate about two things: Data Structures and Algorithms (DSA) and Web Development. Here you'll find a collection of projects that blend these two worlds seamlessly, showcasing my journey in mastering both realms.
+
 * 🌍  I'm based in Kanpur
 * ✉️  You can contact me at [harsh184300@gmail.com](mailto:harsh184300@gmail.com)
+* 🧠  I'm learning ReactJS
 
 ### Skills
 
